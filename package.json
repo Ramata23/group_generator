@@ -1,0 +1,28 @@
+{
+  "name": "group_generator2",
+  "version": "0.1.0",
+  "description": "group generator",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramata23/group_generator.git"
+  },
+  "keywords": [
+    "group",
+    "generator"
+  ],
+  "author": "ramata et alex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramata23/group_generator/issues"
+  },
+  "homepage": "https://github.com/Ramata23/group_generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoclient": "^1.0.3",
+    "mongodb": "^3.5.9"
+  }
+}
